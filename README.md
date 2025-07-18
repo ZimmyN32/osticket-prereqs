@@ -22,6 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+Create a free account with Azure or alternatively create a Pay As You Go account (https://azure.microsoft.com/en-us/free/)
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
