@@ -24,7 +24,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Create a free subscription with Azure or alternatively create a Pay As You Go account (https://azure.microsoft.com/en-us/free/)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create an Azure Virtual Machine Windows 10, 4 vCPUs
@@ -32,15 +31,9 @@ Create an Azure Virtual Machine Windows 10, 4 vCPUs
   - Name: osticket-vm
   - Username: labuser
   - Password: osTicketPassword1!
-
-
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Log into the VM with Remote Desktop
 
 Within the VM (osticket-vm), download the [osTicket-Installation-Files.zip](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD) and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
