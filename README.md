@@ -17,7 +17,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Computer with internet connection
+- Computer With Internet Connection
 - Credit Card
 
 <h2>Installation Steps</h2>
@@ -109,17 +109,10 @@ Continue Setting up osTicket in the browser
   - MySQL Password: root
   - Click “Install Now!”
 
-</p>
-<br />
-
-<p>
-</p>
-<p>
-
 Congratulations, hopefully it is installed with no errors!
   - Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
 </p>
 
-<img src="https://i.imgur.com/xFHeWFm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0KLsq2d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
